@@ -1,0 +1,121 @@
+body{
+    background-image: url("./images/jay_shreeram.jpg");
+    background-attachment: fixed;
+    color: rgb(204, 163, 30);
+    background-color: #eb4747;
+    font: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+
+.heading{
+   background-color: rgb(8, 4, 12);
+   margin: 5px;
+   padding: 10px;
+   border: 10px;
+   border-radius: 10%;
+   text-align: center;
+}
+
+ h1{
+    color: rgb(227, 111, 17);
+
+ }
+ .ram{
+   color: #df5200;
+   font-size: larger;
+   font-weight: 600;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .form{
+   display: inline-block;
+   position: relative;
+   color: rgb(0, 0, 0);
+   font-size: large;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: rgb(220, 232, 245);
+padding: 50px;
+margin: 20px;
+ }
+
+ 
+
+
+.title{
+   position:absolute;
+   
+   display: inline-block;
+   
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  text-align: left;
+  font-size: larger;
+  margin-right: 120px;
+  border: 10px;
+  padding: 10px;
+
+}
+
+
+
+
+
+
+.episode{
+    border: 5px solid rgb(0, 0, 0);
+    display: inline-block;
+   position:relative;
+    top: 20%;
+    left: 70%;
+    font: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+   background-color: #eb4747;
+}
+
+.story{
+   position:absolute;
+   top: 30%;
+   display: inline-block;
+   color: rgb(0, 0, 0);
+   background-color: rgb(61, 176, 225);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  text-align: left;
+  font-size: larger;
+  margin-right: 120px;
+  border: 20px;
+  border-radius: 05%;
+  padding: 10px;
+}
+ 
+
+ button:hover{
+background-color: #00ff37;
+
+}
+
+
+/* home page */
+
+.home{
+   background-image: url("./images/Ramyan.jpg");
+   color: rgb(135, 215, 222);
+  background-size: cover;
+   top: 20px;
+   left: 30px;
+   background-attachment: fixed;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+
+}
+
+.summary{
+   display: inline-block;
+   color: gold;
+   font: bold;
+   width: 500px;
+   height: 500px;
+}
+
